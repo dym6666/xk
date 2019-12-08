@@ -27,7 +27,7 @@
 
 1、
 2、流程图
-![image]()
+![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209014056.png)
 3、核心代码
 
 public class caozuo extends JFrame implements ActionListener{
