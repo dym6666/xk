@@ -25,7 +25,10 @@
 
 三、实验过程
 
-1、核心代码
+1、
+2、流程图
+![image]()
+3、核心代码
 
 public class caozuo extends JFrame implements ActionListener{
 	JButton Choosing = new JButton("选      课");
