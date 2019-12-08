@@ -25,7 +25,8 @@
 
 三、实验过程
 
-1、
+1、编写思路
+首先要先画流成图，然后按顺序写代码
 2、流程图
 ![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209014056.png)
 3、核心代码
