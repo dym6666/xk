@@ -90,3 +90,5 @@ public class caozuo extends JFrame implements ActionListener{
 ![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209005526.png)
 ![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209005839.png)
 ![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209010007.png)
+五、感想
+这次的课程设计实验是对我们进入大学以来学习Java语言结果的一次大考验。自己动手，发现问题和解决问题。并发现了许多自己的不足，平时没掌握的知识在实践中暴露，经过不断的思考，查阅书籍和上网查资料及上机运行，解决了大部分问题，还稍微有些小问题。但是，我相信经过深入的的学习，一定能把它解决好。我不仅巩固课程学习的内容，掌握设计的基本方法，强化上机动手能力，还进一步掌握了许多知识。学会了较大程序的系统测试和调试方法。
