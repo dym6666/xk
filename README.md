@@ -88,5 +88,5 @@ public class caozuo extends JFrame implements ActionListener{
 四、运行截图
 ![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209005730.png)
 ![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209005526.png)
-![image]()
+![image](https://github.com/dym6666/xk/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209005839.png)
 ![image]()
